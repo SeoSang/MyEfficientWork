@@ -2,7 +2,8 @@
 
 .bat file programming  for my efficient work!
 
-![main](/images/main.png)
+![main1](/images/main2.png)
+![main2](/images/main.png)
 
 ---
 ## Author
